@@ -1,4 +1,4 @@
-python ==3.12
+
 langchain-google-genai ==1.0.2
 pydantic ==2.7.0
 uvicorn ==0.29.0
